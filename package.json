@@ -1,7 +1,6 @@
 {
   "name": "node-blog",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/panchalhemant2001/week1EndExpressEJSTutorialAssignment/issues"
   },
-  "homepage": "https://github.com/panchalhemant2001/week1EndExpressEJSTutorialAssignment#readme"
+  "homepage": "https://github.com/panchalhemant2001/week1EndExpressEJSTutorialAssignment#readme",
+  "dependencies": {
+    "ejs": "^2.5.8",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "description": ""
 }
